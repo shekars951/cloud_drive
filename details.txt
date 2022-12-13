@@ -1,0 +1,11 @@
+account id - 319972357722
+user name - acnteam
+password - acnteam@1234
+
+
+Access key ID	- AKIAUU76WWZNK4W43VWD           
+Secret access key   -   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
+
+
+
+bucket name   -   acn-project-bucket
